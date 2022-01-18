@@ -1,0 +1,15 @@
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\scadere.exe
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\scadere.deps.json
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\scadere.runtimeconfig.json
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\scadere.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\ref\scadere.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\bin\Debug\net6.0\scadere.pdb
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.csproj.AssemblyReference.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.GeneratedMSBuildEditorConfig.editorconfig
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.AssemblyInfoInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.AssemblyInfo.cs
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.csproj.CoreCompileInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\ref\scadere.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.pdb
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\scadere\obj\Debug\net6.0\scadere.genruntimeconfig.cache

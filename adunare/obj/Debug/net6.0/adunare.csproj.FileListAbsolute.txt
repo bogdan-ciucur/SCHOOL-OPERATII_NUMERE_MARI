@@ -1,0 +1,15 @@
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\adunare.exe
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\adunare.deps.json
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\adunare.runtimeconfig.json
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\adunare.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\ref\adunare.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\bin\Debug\net6.0\adunare.pdb
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.csproj.AssemblyReference.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.GeneratedMSBuildEditorConfig.editorconfig
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.AssemblyInfoInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.AssemblyInfo.cs
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.csproj.CoreCompileInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\ref\adunare.dll
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.pdb
+D:\00-fisiere-cod\cs-fudnamente\operatiiNrMari\adunare\obj\Debug\net6.0\adunare.genruntimeconfig.cache
